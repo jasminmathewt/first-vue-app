@@ -1,0 +1,17 @@
+.student-registartion{
+    max-width: 600px;
+    margin: 0 auto;
+    .row{
+        margin-bottom: 30px;
+    }
+    label{
+        text-align: left;
+    }
+    .gender{
+        display: flex;
+        align-items: center;
+        label{
+            margin: 0 29px 0 10px;
+        }
+    }
+}

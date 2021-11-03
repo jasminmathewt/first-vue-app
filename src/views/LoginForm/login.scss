@@ -1,0 +1,20 @@
+.user-login{
+    max-width: 490px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 30px;
+    input{
+        border: 0;
+        border-bottom: 1px solid #ccc;
+        height: 17px;
+        outline: 0;
+    }
+    .login-btn{
+        background: transparent;
+        border: 1px solid #ccc;
+        padding: 5px 20px;
+    }
+}
+.user-login .row {
+    margin-bottom: 20px;
+}
